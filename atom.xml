@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dw0071.github.io/gr/</id>
+    <title>DW</title>
+    <updated>2025-11-19T11:28:33.044Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dw0071.github.io/gr/"/>
+    <link rel="self" href="https://dw0071.github.io/gr/atom.xml"/>
+    <subtitle>&lt;b&gt;【德伟日记】全网同名&lt;/b&gt;</subtitle>
+    <logo>https://dw0071.github.io/gr/images/avatar.png</logo>
+    <icon>https://dw0071.github.io/gr/favicon.ico</icon>
+    <rights>All rights reserved 2025, DW</rights>
+    <entry>
+        <title type="html"><![CDATA[价格表]]></title>
+        <id>https://dw0071.github.io/gr/post/jie-ge-biao/</id>
+        <link href="https://dw0071.github.io/gr/post/jie-ge-biao/">
+        </link>
+        <updated>2025-11-19T09:15:56.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[配置代理---clash verge]]></title>
+        <id>https://dw0071.github.io/gr/post/pei-zhi-dai-li/</id>
+        <link href="https://dw0071.github.io/gr/post/pei-zhi-dai-li/">
+        </link>
+        <updated>2025-11-18T08:13:00.000Z</updated>
+    </entry>
+</feed>
